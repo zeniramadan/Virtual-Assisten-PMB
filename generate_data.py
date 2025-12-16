@@ -17,7 +17,7 @@ intents_template = [
     {
         "tag": "syarat_pendaftaran",
         "patterns": ["apa saja syaratnya?", "dokumen apa yang dibutuhkan?", "syarat daftar", "berkas pendaftaran", "ketentuan pendaftaran", "butuh ijazah apa?", "persyaratan maba"],
-        "responses": ["Syaratnya kakak Scan Ijazah/SKL, KTP, KK, dan Pas Foto terbaru.", "Kakak hanya perlu menyiapkan Fotokopi Ijazah legalisir, KTP, dan Foto berwarna.", "Dokumen wajibnya Fotokopi Ijazah, KTP, dan bukti pembayaran saja kak."]
+        "responses": ["Syaratnya kakak Scan atau fotokopi Ijazah/SKL, KTP, KK, dan Pas Foto terbaru ya!.", "Kakak hanya perlu menyiapkan Fotokopi Ijazah legalisir, KTP, KK, dan Foto berwarna.", "Dokumen wajibnya Fotokopi Ijazah, KTP, KK, dan Pas Foto Berwarna saja kak."]
     },
     {
         "tag": "jadwal_pendaftaran",
@@ -27,7 +27,7 @@ intents_template = [
     {
         "tag": "jurusan_prodi",
         "patterns": ["ada jurusan apa aja?", "prodi yang tersedia", "fakultas apa saja?", "list jurusan", "pilihan prodi", "teknik informatika ada gak?", "program studi"],
-        "responses": ["Kami memiliki program studi Teknik Informatika dan Teknik Industri."]
+        "responses": ["Kami memiliki program studi Teknik Informatika dan Teknik Industri kak."]
     },
     {
         "tag": "lokasi_kampus",
@@ -37,7 +37,7 @@ intents_template = [
     {
         "tag": "kontak_admin",
         "patterns": ["bisa hubungi siapa?", "nomor wa admin", "call center", "email kampus", "kontak person", "nomor telepon"],
-        "responses": ["Hubungi WhatsApp Minci ya di 0812-3456-7890.", "Email ke pmb@sttcipasung.ac.id.", "Layanan telepon juga tersedia di (021) 555-555."]
+        "responses": ["Hubungi WhatsApp Minci ya di 0812-3456-7890, Email ke pmb@sttcipasung.ac.id, dan Layanan telepon juga tersedia di (021) 555-555."]
     },
     {
         "tag": "beasiswa",
