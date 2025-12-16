@@ -1,7 +1,7 @@
 # 🎓 Virtual Assistant PMB
 
 <!-- Tech Stack Shields -->
-<p align="center">
+<p align="center" style="text-decoration: none;">
    <a href="https://www.python.org/">
       <img src="https://img.shields.io/badge/Python-3.10+-blue?logo=python&logoColor=white" alt="Python"/>
    </a>
