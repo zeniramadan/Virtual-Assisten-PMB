@@ -86,6 +86,3 @@ Virtual-Assisten-PMB/
 
 ---
 
-**Dikembangkan oleh Tim NLP Kelompok 2**
-
-> STT Cipasung, 2025
