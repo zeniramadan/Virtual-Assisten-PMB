@@ -6,8 +6,8 @@ import random
 intents_template = [
     {
         "tag": "salam",
-        "patterns": ["halo", "hai", "selamat pagi", "selamat siang", "ping", "permisi", "min", "hallo admin", "assalamua'alaikum"],
-        "responses": ["Halo kak! Ada yang bisa Minci bantu terkait PMB?", "Hai calon mahasiswa! Silakan tanya seputar pendaftaran ke Minci ya!.", " Halo kak, selamat datang di layanan informasi PMB. Silahkan tanya ke Minci ya!"]
+        "patterns": ["halo", "hai", "selamat pagi", "selamat siang", "ping", "permisi", "min", "hallo admin", "assalamu'alaikum"],
+        "responses": ["Halo kak! Ada yang bisa Minci bantu terkait PMB?", "Hai calon mahasiswa! Silakan tanya seputar pendaftaran ke Minci ya!.", "Halo kak, selamat datang di layanan informasi PMB. Silahkan tanya ke Minci ya!"]
     },
     {
         "tag": "biaya_pendaftaran",
@@ -46,7 +46,7 @@ intents_template = [
     },
     {
         "tag": "penutup",
-        "patterns": ["terima kasih", "makasih min", "thanks", "oke makasih infonya", "baik terima kasih", "cukup jelas, makasih", "sampai jumpa", "dadah", "tengkyu"],
+        "patterns": ["terima kasih", "terimakasih","makasih min", "thanks", "oke makasih infonya", "baik terima kasih", "cukup jelas, makasih", "sampai jumpa", "dadah", "tengkyu"],
         "responses": ["Sama-sama kak! Minci do'akan semoga sukses pendaftarannya ya.", "Terima kasih kembali kak. Jika ada pertanyaan lain, jangan ragu untuk menghubungi Mici lagi ya!.", "Senang bisa membantu! Minci tunggu kedatangannya menjadi bagian dari mahasiswa baru kami."]
     }
 ]
